@@ -73,6 +73,28 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+- UI/UX Designers
+
+Responsibilities: Create user flows, wireframes, prototypes, and design specifications; collaborate with PM, PdM, and Developers; validate user impact; provide design reviews.
+Interactions: Work closely with Product Managers for user research, Developers for design implementation, Project Managers for timeline alignment.
+DevOps Engineers
+
+Responsibilities: Manage CI/CD pipelines, cloud infrastructure, deployment automation, security monitoring; collaborate on release planning and incident response.
+Interactions: Coordinate with Developers (code integration), Project Managers (deployment schedules), QA (environment stability).
+Business Analysts
+
+Responsibilities: Analyze business requirements, document functional specs, identify gaps/opportunities, bridge technical/non-technical teams.
+Interactions: Partner with Product Managers for requirements gathering, Project Managers for scope definition, Developers for feasibility.
+QA Automation Engineers
+
+Responsibilities: Develop automated tests, define test strategies, improve quality metrics, maintain test environments.
+Interactions: Collaborate with Developers (test coverage), QA/Testing (manual/automated split), Project Managers (release gates).
+Technical Writers
+
+Responsibilities: Produce and maintain project documentation, user guides, API references, release notes.
+Interactions: Work across roles to extract knowledge, clarify technical content, update docs.
+
+
 ---
 
 ## How these personas are used in the exercise
